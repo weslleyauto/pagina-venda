@@ -11,8 +11,8 @@ export default function BeforeAfter() {
     },
     {
       name: 'Roberto T.',
-      kg: '-15kg',
-      time: '30 dias',
+      kg: '-8kg',
+      time: '26 dias',
       image: '/homem-transformacao-corpo-fitness-resultado.jpg',
       highlight: 'Primeira vez com resultado real'
     },
