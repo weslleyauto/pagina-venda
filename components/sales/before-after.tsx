@@ -25,10 +25,10 @@ export default function BeforeAfter() {
     },
     {
       name: 'Carlos A.',
-      kg: '-10,6kg',
+      kg: '-8,6kg',
       time: '31 dias',
       image: '/homem-antes-depois-magreza-conquista.jpg',
-      highlight: 'Método científico realmente funciona'
+      highlight: 'Uni o método com academia, consegui perder a pança chata kkk'
     }
   ]
 
