@@ -4,7 +4,7 @@ export default function BeforeAfter() {
   const transformations = [
     {
       name: 'Marina S.',
-      kg: '-12kg',
+      kg: '-9kg',
       time: '30 dias',
       image: '/mulher-antes-depois-perda-peso-resultado.jpg',
       highlight: 'Trabalhou a mente e tudo mudou'
