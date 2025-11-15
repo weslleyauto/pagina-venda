@@ -4,7 +4,7 @@ export default function BeforeAfter() {
   const transformations = [
     {
       name: 'Marina S.',
-      kg: '-9kg',
+      kg: '-9,2kg',
       time: '30 dias',
       image: '/mulher-antes-depois-perda-peso-resultado.jpg',
       highlight: 'Trabalhou a mente e tudo mudou'
@@ -18,15 +18,15 @@ export default function BeforeAfter() {
     },
     {
       name: 'Juliana M.',
-      kg: '-10kg',
-      time: '30 dias',
+      kg: '-9,8kg',
+      time: '32 dias',
       image: '/mulher-confiante-resultado-transformacao.jpg',
       highlight: 'Recuperei minha autoestima'
     },
     {
       name: 'Carlos A.',
-      kg: '-18kg',
-      time: '30 dias',
+      kg: '-10,6kg',
+      time: '31 dias',
       image: '/homem-antes-depois-magreza-conquista.jpg',
       highlight: 'Método científico realmente funciona'
     }
