@@ -4,31 +4,31 @@ export default function BeforeAfter() {
   const transformations = [
     {
       name: 'Marina S.',
-      kg: '-9,2kg',
+      kg: '-12kg',
       time: '30 dias',
       image: '/mulher-antes-depois-perda-peso-resultado.jpg',
       highlight: 'Trabalhou a mente e tudo mudou'
     },
     {
       name: 'Roberto T.',
-      kg: '-8kg',
-      time: '26 dias',
+      kg: '-15kg',
+      time: '30 dias',
       image: '/homem-transformacao-corpo-fitness-resultado.jpg',
       highlight: 'Primeira vez com resultado real'
     },
     {
       name: 'Juliana M.',
-      kg: '-9,8kg',
-      time: '32 dias',
+      kg: '-10kg',
+      time: '30 dias',
       image: '/mulher-confiante-resultado-transformacao.jpg',
       highlight: 'Recuperei minha autoestima'
     },
     {
       name: 'Carlos A.',
-      kg: '-8,6kg',
-      time: '31 dias',
+      kg: '-18kg',
+      time: '30 dias',
       image: '/homem-antes-depois-magreza-conquista.jpg',
-      highlight: 'Uni o método com academia, consegui perder a pança chata kkk'
+      highlight: 'Método científico realmente funciona'
     }
   ]
 
