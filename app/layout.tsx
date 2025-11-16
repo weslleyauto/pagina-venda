@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Método Reset 30',
   description: 'Created with v0',
-  generator: 'v0.app',
+  generator: 'Amaral',
   icons: {
     icon: [
       {
